@@ -1,36 +1,31 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2
-    },
-    {
-      "id": 3
-    },
-    {
-      "id": 4
-    },
-    {
-      "id": 5
-    },
-    {
-      "body": "wojdnckjsnc",
-      "postId": 1,
-      "id": 6
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "data" : {
+    "faqs": [
+      {
+        "id": 1,
+        "question" : "Sifarişi necə edim?",
+        "answer": "   <p> Əgər siz öz kartınızla məhsul sifariş etmək istəyirsinizsə, ilk olaraq saytımızdan qeydiyyatdan(clickable) keçməlisiniz. Sifariş zamanı mağazanın sizdən tələb etdiyi ünvan hissəsinə, xaricdəki ünvanımızı qeyd edirsiniz. Ətraflı məlumatı Xaricdəki ünvanlarım(clickable) bölməsindən əldə edə bilərsiniz. Sonra isə xarici saytlarda keçərli olan bank kartı vasitəsi ilə ödənişi edərək, sifarişi tamamlayırsınız.</p>"
+      },
+      {
+        "id": 2,
+        "question" : "Sifarişin dəyəri necə formalaşır?",
+        "answer": "  <p>  Sifarişin əldə edilməsi ödənişdən sonra təqribi 7 gün təşkil edir, bu sifariş olunan məhsulların sayından və həcmindən asılıdır. Sifarişinizi kuryer vasitəsilə birbaşa ünvanınıza yaxud birbaşa ofisimizdən əldə edə bilərsiniz. Bağlamanı kuryer vasitəsilə aldığınız zaman əlavə olarak 3 və 7 Azn arasında ödəniş olacaqdır.</p>"
+      },
+      {
+        "id": 3,
+        "question" : "Sifarişi nə zaman və harada qəbul edəcəyəm?",
+        "answer": "  <p>  Əgər siz öz kartınızla məhsul sifariş etmək istəyirsinizsə, ilk olaraq saytımızdan qeydiyyatdan(clickable) keçməlisiniz. Sifariş zamanı mağazanın sizdən tələb etdiyi ünvan hissəsinə, xaricdəki ünvanımızı qeyd edirsiniz. Ətraflı məlumatı Xaricdəki ünvanlarım(clickable) bölməsindən əldə edə bilərsiniz. Sonra isə xarici saytlarda keçərli olan bank kartı vasitəsi ilə ödənişi edərək, sifarişi tamamlayırsınız.</p>"
+      },
+      {
+        "id": 3,
+        "question" : "Sifarişlərin neçə statusu olur?",
+        "answer": "<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate beatae aspernatur necessitatibus in, sit magnam recusandae fuga ipsum ut corrupti modi impedit dicta totam corporis nobis cum fugit dolor aperiam!</p>"
+      },
+      {
+        "id": 4,
+        "question" : "Bilmək vacibdir?",
+        "answer": " <p>   Gözlənilir – dərhal ödəniş edildikdən sonra.</p>"
+      }
+    ]
   }
 }

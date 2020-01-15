@@ -1,0 +1,19 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000d\u0000b\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BadalovT/db.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BadalovT/db/issues"
+  },
+  "homepage": "https://github.com/BadalovT/db#readme"
+}
